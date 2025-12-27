@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//guysfhbjgyut
 //x sushtestvuva samo vuv funkciqta square
 
 double square(double x)
